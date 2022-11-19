@@ -1,4 +1,4 @@
-
+//WAP to arrange the diagonals of a matrix in ascending order.
 #include<stdio.h>
 int main(){
     int n;
